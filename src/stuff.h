@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <string>
 
-#include "EasyBMP/EasyBMP.h"
+#include "../EasyBMP/EasyBMP.h"
 
 
 #define FILE_NAME "4.bmp"
