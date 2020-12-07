@@ -41,7 +41,7 @@ int main() {
         }
 
     for (int i = 0; i < iterations; i++) {
-        MedianFilterCPU(res_cpu, colours, height, width);
+    //    MedianFilterCPU(res_cpu, colours, height, width);
     }
     for (int i = 0; i < iterations; i++) {
         MedianFilterGPU(res_gpu, colours, height, width);

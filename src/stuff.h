@@ -12,12 +12,12 @@
 #include "../EasyBMP/EasyBMP.h"
 
 
-#define FILE_NAME "4.bmp"
+#define FILE_NAME "2.bmp"
 #define RESULT_NAME_CPU "result_cpu.bmp"
 #define RESULT_NAME_GPU "result_gpu.bmp"
 
 const int iterations = 20;
-const int offset = 1;
+const int offset = 3;
 const int offset_ = (2 * offset + 1) * (2 * offset + 1);
 
 
